@@ -1,0 +1,16 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": "H",
+          "shift": true,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "app:go-back"
+    }
+  ]
+}
