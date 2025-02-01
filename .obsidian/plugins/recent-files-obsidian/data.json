@@ -1,0 +1,28 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Test",
+      "path": "Test/Test.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Template/Untitled.md"
+    },
+    {
+      "basename": "Velocità istantanea",
+      "path": "Università/Fisica/Velocità istantanea.md"
+    }
+  ],
+  "omittedPaths": [
+    "*.png"
+  ],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
+  "maxLength": null,
+  "openType": "tab"
+}
