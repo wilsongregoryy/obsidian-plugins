@@ -1,0 +1,11 @@
+.callout {
+    border-width: 1px;
+    padding: unset;
+}
+.callout-title {
+    padding: 0.5em 1em;
+    background-color: rgba(var(--callout-color), 0.1);
+}
+.callout-content {
+    padding: 0.2em 1em;
+}

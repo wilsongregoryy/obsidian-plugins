@@ -1,0 +1,20 @@
+{
+  "vimMode": false,
+  "attachmentFolderPath": "./Allegati",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 63
+  },
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false,
+  "propertiesInDocument": "visible",
+  "autoConvertHtml": true,
+  "focusNewTab": false,
+  "autoPairMarkdown": true
+}
